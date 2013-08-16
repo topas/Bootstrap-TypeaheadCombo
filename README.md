@@ -1,6 +1,6 @@
 # Bootstrap Typeahead Combobox
 
-Simply textbox input with typeahead and dropdown button.
+Simply textbox input with typeahead and dropdown button for displaying all items.
 
 Based on Bootstrap Combobox by Daniel Farrell https://github.com/danielfarrell/bootstrap-combobox
 
